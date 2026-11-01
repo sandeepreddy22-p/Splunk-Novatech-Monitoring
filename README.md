@@ -12,5 +12,5 @@ An enterprise-grade centralized logging and monitoring architecture deployed on 
 
 ##  Project Overview
 * **Domain:** SIEM / IT Infrastructure Monitoring
-* **Environment:** AWS EC2 (Linux & Windows), Splunk Enterprise (UF,HF,Search Head, Indexers)
+* **Environment:** AWS EC2 (Linux & Windows), Splunk Enterprise ((Standalone Instance))
 * **Log Sources:** Windows Security/System Logs, Linux Syslog, AWS CloudWatch, ServiceNow Incidents, and Jenkins.
